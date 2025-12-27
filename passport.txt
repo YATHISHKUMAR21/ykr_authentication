@@ -1,0 +1,6 @@
+1.on each http request passport will use a strategyto determine whether the user is authorised or not
+2.passport js is a middleware 
+3.each strategy uses passport js framework as template
+4.passport local startegy uses cookies , express-session , some auth logic
+
+

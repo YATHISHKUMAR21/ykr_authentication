@@ -9,4 +9,3 @@ types of user auth
 
 in this tutorial we will be going to session and jwt
 
-
