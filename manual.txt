@@ -1,0 +1,12 @@
+passport local strategy
+
+types of user auth
+1.session
+2.jwt
+3.oauth ---- 3.1 inhouse 3.2 ad-joc
+4.ad-hoc
+
+
+in this tutorial we will be going to session and jwt
+
+
