@@ -1,0 +1,11 @@
+3 types of header
+-------------------
+1.general headers
+2.response headers
+3.request headers
+
+response headers 
+
+set-cookies
+
+
